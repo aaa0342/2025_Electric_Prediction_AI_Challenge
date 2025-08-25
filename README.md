@@ -21,13 +21,13 @@ public 7.30619점 316등
 
 # 개발 환경 및 버전
 개발환경 : Windows colab
-Python version: 3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]
-pandas version: 2.2.2
-numpy version: 2.0.2
-matplotlib version: 3.10.0
-sktime version: 0.38.5
-sklearn version: 1.6.1
-xgboost version: 3.0.4
+1. Python version: 3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]
+2. pandas version: 2.2.2
+3. numpy version: 2.0.2
+4. matplotlib version: 3.10.0
+5. sktime version: 0.38.5
+6. sklearn version: 1.6.1
+7. xgboost version: 3.0.4
 
 # 데이터 전처리
 1. 전력소비량 이상치는 date별 평균 전력소비량 그래프를 통해 판단 후 3일 이동평균 처리
